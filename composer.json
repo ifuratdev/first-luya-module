@@ -1,5 +1,5 @@
 {
-	"name" : "VENDOR/NAME",
+	"name" : "ifuratdev/first-luya-module",
 	"description" : "",
 	"type" : "luya-extension",
 	"keywords" : ["luya"],
