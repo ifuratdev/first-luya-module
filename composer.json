@@ -15,7 +15,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"VENDOR\\NAME\\" : "src/"
+			"ifuratdev\\first-luya-module\\" : "src/"
 		}
 	},
 	"autoload-dev" : {
