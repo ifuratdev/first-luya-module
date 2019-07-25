@@ -21,7 +21,7 @@ Run the import command afterwards:
 ```sh
 ./luya import
 ```
-
+.
 ## Usage
 
 *Usage description*
